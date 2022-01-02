@@ -13,5 +13,5 @@ This Chrome extension is released under [MIT license](LICENSE).
 ## CHANGELOG
 
 | Version | Notes |
-| --- | --- |
-| 0.1.0 | Initial launch with a simple button to bulk remove all browsed items on the history page. |
+| :--- | :--- |
+| `0.1.0` | Initial launch with a simple button to bulk remove all browsed items on the history page. |
