@@ -1,0 +1,10 @@
+{
+  "name": "Remove Amazon Browsing History",
+  "description": "Amazon has removed the button to clear all browsing history at once. This extension adds a button that let you remove all current items in the browsing history.",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "src/popup.html"
+  }
+}
